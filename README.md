@@ -14,12 +14,12 @@
 * 问题 （允许文字，图片，语音，视频）
 * 结束 （从科目开始到结束的所有内容都会被转发给科任老师）
 样例：  
-![]（https://images.cnblogs.com/cnblogs_com/sherrlock/1336674/o_20020906451942469358704840423.jpg)
+![](https://images.cnblogs.com/cnblogs_com/sherrlock/1336674/o_20020906451942469358704840423.jpg)
 ### 老师回答
 格式：
 * 编号
 * 回答 （允许文字，图片，语音，视频）
 * 结束 （从编号开始到结束的所有内容都会被转发给发问同学）  
 样例:  
-![] (https://images.cnblogs.com/cnblogs_com/sherrlock/1336674/o_200209064514f848631b86142f1c679d55841a7799f.png)
+![](https://images.cnblogs.com/cnblogs_com/sherrlock/1336674/o_200209064514f848631b86142f1c679d55841a7799f.png)
 ### 后续加入
